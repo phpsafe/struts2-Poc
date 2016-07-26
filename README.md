@@ -1,1 +1,1 @@
-# struts2-Poc
+# struts2利用Poc集合。
